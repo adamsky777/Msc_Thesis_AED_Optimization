@@ -1,1 +1,1 @@
-# Mac_Thesis_AED_Optimization
+# Msc_Thesis_AED_Optimization
